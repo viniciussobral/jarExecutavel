@@ -31,7 +31,7 @@ public class Conexao {
         if (conn != null) {
             System.out.println("conectou");
         } else {
-            System.out.println("n�o conectado");
+            System.out.println("conectado");
         }
     }
 
